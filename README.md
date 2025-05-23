@@ -21,5 +21,5 @@ Este é um projeto simples de lista de tarefas (To-Do) feito com HTML, CSS e Jav
 ## 🔧 Como usar
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/todo-list-exemplo.git
+git clone https://github.com/Joix6/todo-list-exemplo.git
 # Abra o index.html no navegador
